@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+html, body, #root {
+  height: 100%;
+}
+:root {
+  color-scheme: light dark; /* permet au dark mode d’être auto si tu le veux */
+}
